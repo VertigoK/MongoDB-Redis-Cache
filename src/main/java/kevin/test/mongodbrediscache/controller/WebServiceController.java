@@ -53,6 +53,6 @@ public class WebServiceController {
         book.setTitle(updatedBook.getTitle());
         book.setAuthor(updatedBook.getAuthor());
         book.setDescription(updatedBook.getDescription());
-        return bookRepository.save(book);   //save()의 경우 _id가 존재하면 insert, _id가 존재하지 않으면 update 수행
+        return bookRepository.save(book);   //save()의 경우 _id가 존재하지 않으면 insert, _id가 존재하면 update 수행
     }
 }
