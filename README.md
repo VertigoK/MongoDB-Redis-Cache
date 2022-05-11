@@ -1,7 +1,3 @@
-## MongoDB-Redis-Cache
-Simple CRUD - MongoDB with Redis Cache
-
-
 ## **Simple CRUD - MongoDB with Redis Cache**
 ### **MongoDB, Redis, Spring Boot**
 
