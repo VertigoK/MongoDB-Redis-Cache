@@ -1,4 +1,4 @@
-## **Simple CRUD - MongoDB with Redis Cache**
+## **Simple CRUD Tests - MongoDB with Redis Cache**
 ### **MongoDB, Redis and Spring Boot**
 
 * Follow the steps below to run/test this app.
