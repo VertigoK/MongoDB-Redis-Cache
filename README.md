@@ -1,5 +1,5 @@
 ## **Simple CRUD - MongoDB with Redis Cache**
-### **MongoDB, Redis, Spring Boot**
+### **MongoDB, Redis and Spring Boot**
 
 * Follow the steps below to run/test this app.
 1. Start MongoDB server
